@@ -2,3 +2,7 @@
 *.o
 
 Dama/Dama/bin/Debug/
+
+*.save
+
+Dama/bin/
